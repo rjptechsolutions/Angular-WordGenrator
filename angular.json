@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "word-genrator"
+    }
+  },
+  "defaultProject": "word-genrator",
+  "cli": {
+    "analytics": false
+  }
 }
